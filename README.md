@@ -14,31 +14,6 @@ This repository contains:
 
 The goal of this repository is to build strong fundamentals in DSA and maintain a structured record of solved problems.
 
----
-
-## 📂 Repository Structure
-
-DSA/
-│── Easy/
-│ ├── Arrays/
-│ ├── Strings/
-│ └── ...
-│
-│── Medium/
-│ ├── LinkedList/
-│ ├── Trees/
-│ └── ...
-│
-│── Hard/
-│ ├── Graphs/
-│ ├── DynamicProgramming/
-│ └── ...
-│
-└── README.md
-
-
----
-
 ## 🧠 Topics Covered
 
 - Arrays
